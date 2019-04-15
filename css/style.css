@@ -285,7 +285,7 @@
 }
 
 .team-section {
-    background: url('/img/team-bg.png');
+    background: url(../img/team-bg.png);
     background-size: cover;
     color: #FFF;
     text-align: center;
@@ -400,7 +400,7 @@
 
 
 .reviews {
-    background: url('/img/reviews-bg.png');
+    background: url('./img/reviews-bg.png');
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
