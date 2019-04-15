@@ -4,7 +4,7 @@
 }
 
 .header {
-    background: url('../img/header_bg.png');
+    background: url('img/header_bg.png');
     background-size: cover;
     background-repeat: no-repeat;
     color: #FFF;
