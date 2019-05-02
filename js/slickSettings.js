@@ -26,9 +26,10 @@ $('.img-slider').slick({
     centerPadding: '0px',
     responsive: [
             {
-                breakpoint: 450,
+                breakpoint: 470,
                 settings: {
                     dots: false,
+                    arrows: false,
                     slidesToShow: 3,  
                     centerPadding: '0px',
                 }
@@ -38,6 +39,7 @@ $('.img-slider').slick({
                 settings: {
                     autoplay: true,
                     dots: false,
+                    arrows: false,
                     slidesToShow: 1,
                     centerMode: false,
                 }
